@@ -1,10 +1,10 @@
 # JS-3D-Object-Graphic-Pipeline
 
 About
-  A javascript coded program that displays a 3D object (.obj file) in your web browser using HTML canvas. 
-  With keyboard controls, it allows you to translate, scale, and rotate the object in a desired way. 
-  The default configuration correctly displays objects that fit a cube sized 1x1x1, but can be changed to view differently 
-  sized objects as well.
+ - A javascript coded program that displays a 3D object (.obj file) in your web browser using HTML canvas. 
+ With keyboard controls, it allows you to translate, scale, and rotate the object in a desired way. 
+ The default configuration correctly displays objects that fit a cube sized 1x1x1, but can be changed to view differently 
+ sized objects as well.
 
 Instructions
 1. Put the .html and .js pipeline files in the same folder.
